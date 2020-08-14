@@ -3,13 +3,13 @@
 Simple Tic-Tac-Toe project created with vanilla javascript, html and css. 
 
 It can be played in 2 modes:
--player vs player
--player vs computer
+* player vs player
+* player vs computer
 
 There are also 3 options for the second mode:
--easy
--medium
--impossible
+* easy
+* medium
+* impossible
 
 The impossible AI is based on a minimax algorithm, whilst the other 2 are just versions with flaws of this one.
 
