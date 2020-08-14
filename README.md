@@ -1,6 +1,25 @@
 # Tic-Tac-Toe Game
 
-Simple Tic-Tac-Toe game that can be played in 2 modes: player vs player and player vs computer.
-For the second mode, there are 3 possible options that define the difficulty of the game: easy, medium, impossible.
+Simple Tic-Tac-Toe project created with vanilla javascript, html and css. 
 
-The JavaScript code was made using the following tutorial : https://www.youtube.com/watch?v=P2TcQ3h0ipQ
+It can be played in 2 modes:
+-player vs player
+-player vs computer
+
+There are also 3 options for the second mode:
+-easy
+-medium
+-impossible
+
+The impossible AI is based on a minimax algorithm, whilst the other 2 are just versions with flaws of this one.
+
+# Installation and Usage
+
+Clone the repository
+```
+git clone https://github.com/neutralove/Tic-Tac-Toe.git
+```
+Then simply open the index.html file with your favourite browser.
+
+# Project Link
+https://neutralove.github.io/Tic-Tac-Toe/
